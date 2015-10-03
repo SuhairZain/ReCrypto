@@ -1,0 +1,5 @@
+E:\Workspace\C#\ReCrypto\bin\Debug\ReCrypto.exe
+E:\Workspace\C#\ReCrypto\bin\Debug\ReCrypto.pdb
+E:\Workspace\C#\ReCrypto\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Workspace\C#\ReCrypto\obj\x86\Debug\ReCrypto.exe
+E:\Workspace\C#\ReCrypto\obj\x86\Debug\ReCrypto.pdb
